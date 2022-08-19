@@ -1,3 +1,5 @@
+//실습2 중도포기 ^9^
+
 //package jpabook.jpashop.api;
 //import jpabook.jpashop.domain.Member;
 //import jpabook.jpashop.service.MemberService;
